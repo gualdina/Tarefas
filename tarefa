@@ -1,0 +1,55 @@
+Determine as raízes de uma equação de 2º grau: ax2 + bx + c = 0 Gualdina Ramos Tavares Diogo
+
+- a fórmula de Bháskara
+separe os coeficientes da equação e realize o primeiro passo
+Δ = b2 – 4ac
+Tendo em mãos o valor de Δ, realize o segundo passo:
+x = – b ± √Δ
+      2·a
+Por fim, realize o terceiro passo para encontrar as raízes da equação do segundo grau.
+
+ex: 
+ Calcule as raízes da equação 2x2 – 16x – 18 = 0
+
+Utilizando a fórmula de Bhaskara, separe os coeficientes da equação e realize o primeiro passo.
+
+a = 2, b = – 16 e c = – 18
+
+Δ = b2 – 4ac
+
+Δ = (– 16)2 – 4·2·(– 18)
+
+Δ = 256 + 144
+
+Δ = 400
+
+Tendo em mãos o valor de Δ, realize o segundo passo:
+
+x = – b ± √Δ
+      2·a
+
+x = – (– 16) ± √400
+      2·2
+
+x = 16 ± 20
+    4
+
+Por fim, realize o terceiro passo para encontrar as raízes da equação do segundo grau:
+
+x' = 16 + 20
+      4
+
+x' = 36
+      4
+
+x' = 9
+
+x'' = 16 – 20
+      4
+
+x'' = – 4
+       4
+
+x'' = – 1
+
+Portanto, as raízes da equação 2x2 – 16x – 18 = 0 são 9 e – 1.
